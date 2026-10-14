@@ -1,6 +1,6 @@
 # plant-care-privacy
 
-잎새도감(Leafdex) 앱의 개인정보처리방침을 공개하는 저장소예요.
+푸릇(Pureut) 앱의 개인정보처리방침을 공개하는 저장소예요.
 
 - 한국어: https://planet8703.github.io/plant-care-privacy/
 - English: https://planet8703.github.io/plant-care-privacy/en.html
